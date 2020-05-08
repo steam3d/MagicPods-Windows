@@ -1,3 +1,11 @@
+# What is planned?
+[] Russian language
+[] Customization Splash screen
+[] User interface simplification
+
+# How can you help?
+If you have powerbeats3, beatsx or beatsSolo3. You can write to MagicPods@outlook.com or open issues.
+
 # MagicPods-Windows
 Add little magic to your Airpods
 
