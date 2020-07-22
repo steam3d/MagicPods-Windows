@@ -1,5 +1,4 @@
 # What is planned?
-Russian language
 
 Customization Splash screen
 
