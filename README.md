@@ -1,3 +1,6 @@
+# 06.09.2020
+App is devoloping. I update interface to new Windows UI companents.
+
 # What is planned?
 
 Customization Splash screen
