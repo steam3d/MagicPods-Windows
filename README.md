@@ -1,4 +1,4 @@
-<img src="https://github.com/steam3d/MagicPods-Windows/blob/master/Media/logo.png" width="80">
+<a href="https://www.microsoft.com/en-us/p/magicpods/9p6skkfkshkm" target="_blank"><img src="https://github.com/steam3d/MagicPods-Windows/blob/master/Media/logo.png" width="80"></a> 
 
 # MagicPods
 The MagicPods introduce the IOS experience of AirPods to Windows.
