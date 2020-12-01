@@ -1,30 +1,37 @@
-# 06.09.2020
-App is devoloping. I update interface to new Windows UI companents.
+<img src="https://github.com/steam3d/MagicPods-Windows/blob/master/Media/logo.png" width="80">
 
-# What is planned?
+# MagicPods
+The MagicPods introduce the IOS experience of AirPods to Windows.
 
-Customization Splash screen
+## Features
+- Fluent design
+- Battery information
+- Ear detection
+- Auto-connection
+- Low audio latency
+- Windows 10 features support (Live tile, themes, notification and etc)
 
-User interface simplification
+## AirPods Supported
+- AirPods Gen 1, 2
+- AirPods Pro
+- PowerBeats Pro
 
+## Usage
+1. Pair your AirPods to your PC
+2. Run the MagicPods
+3. Choose the settings you like (optional)
+4. Open the AirPods case
+5. Watch the magic happen
 
-# How can you help?
-If you have powerbeats3, beatsx or beatsSolo3. You can write to MagicPods@outlook.com or open issues.
+*After AirPods is connected to your PC the MagicPods will search your AirPods 10 seconds to be to be sure that AirPods are yours.*
 
-# MagicPods-Windows
-Add little magic to your Airpods
+Now all functions are turn on and available for work. Enjoy.
 
-# How does it work?
-1. Turn on bluetooth.
-2. Check your AirPods name. It must contain the word airpods. Example «Jhon AirPods».
-3. Bring the Airpods to your PC and open them.
-4. Watch the magic happen.
+## Translation
+You can help to translate the MagicPods. Follow this guide [Add your native language](https://github.com/steam3d/MagicPods-Windows/issues/23).
 
-# Still not working?
-1. Check your bluetooth. It must be version 4.0 or above.
-2. Turn on startup. If you skip this step or disable startup, go to Task Manager and turn on MagicPods Service.
-3. Reboot your system or relaunch app.
-4. Go to «How it's work?»
+## Other headphones
+If you have powerbeats3, beatsx or beatsSolo3 please follow this guide [Help with supports new headphones](https://github.com/steam3d/MagicPods-Windows/issues/21) to provide extra information about them. It will help to understand if it is possible to add support these headphones to MagicPods.
 
-# Found any issues?
-Write your problem to MagicPods@outlook.com
+## Report bug
+Ask a question at github page or write your problem to MagicPods@outlook.com
