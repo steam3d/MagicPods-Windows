@@ -29,6 +29,8 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 Now all functions are turn on and available for work. Enjoy.
 
 ## Translation
+[![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/multi-auto.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
+
 You can help to translate the MagicPods. Follow this guide [Add your native language](https://github.com/steam3d/MagicPods-Windows/issues/23).
 
 ## Other headphones
