@@ -18,6 +18,13 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 - AirPods Pro
 - AirPods Max
 - PowerBeats Pro
+- Beats Fit Pro
+- Beats Solo 3 (only battery)
+- Beats Solo Pro (only battery)
+- Beats Studio 3 (only battery)
+- Beats X (only battery)
+- Beats Flex (only battery)
+- Power Beats 3 (only battery)
 
 ## Usage
 1. Pair your AirPods to your PC
