@@ -40,7 +40,7 @@ Now all functions are turn on and available for work. Enjoy.
 ## Translation
 [![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/multi-auto.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
 
-You can help to translate the MagicPods. Follow this guide [Add your native language](https://github.com/steam3d/MagicPods-Windows/issues/23).
+You can get MagicPods for free just help to translate the MagicPods. Follow this guide [Add your native language](https://github.com/steam3d/MagicPods-Windows/issues/23) to start. When you've finished translating, email MagicPods@outlook.com to get MagicPods activation code.
 
 ## Other headphones
 If you have powerbeats3, beatsx or beatsSolo3 please follow this guide [Help with supports new headphones](https://github.com/steam3d/MagicPods-Windows/issues/21) to provide extra information about them. It will help to understand if it is possible to add support these headphones to MagicPods.
