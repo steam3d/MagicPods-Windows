@@ -19,6 +19,7 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 - AirPods Max
 - PowerBeats Pro
 - Beats Fit Pro
+- Beats Studio Buds
 - Beats Solo 3 (only battery)
 - Beats Solo Pro (only battery)
 - Beats Studio 3 (only battery)
