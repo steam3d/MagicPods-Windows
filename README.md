@@ -26,6 +26,7 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 - Beats X (only battery)
 - Beats Flex (only battery)
 - Power Beats 3 (only battery)
+- AirPods Pro 2 (only battery)
 
 ## Usage
 1. Pair your AirPods to your PC
