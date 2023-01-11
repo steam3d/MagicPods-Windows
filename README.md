@@ -5,6 +5,14 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 
 <a href='//www.microsoft.com/store/apps/9P6SKKFKSHKM?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge'  height="48"/></a>
 
+## Help guid
+
+Description of features, resolve known issue and etc.
+
+[help.magicpods.app](https://help.magicpods.app/)
+
+
+
 ## Features
 - Fluent design
 - Battery information
@@ -16,6 +24,7 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 ## AirPods Supported
 - AirPods Gen 1, 2, 3
 - AirPods Pro
+- AirPods Pro 2 (only battery)
 - AirPods Max
 - PowerBeats Pro
 - Beats Fit Pro
