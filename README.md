@@ -7,7 +7,7 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 
 ## Help guid
 
-Description of features, resolve known issue and etc.
+Description of features, resolve known issues and etc.
 
 [help.magicpods.app](https://help.magicpods.app/)
 
