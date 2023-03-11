@@ -11,6 +11,11 @@ Description of features, resolve known issues and etc.
 
 [help.magicpods.app](https://help.magicpods.app/)
 
+## Join to Discord server
+
+<a href='https://discord.com/invite/AfY8dQVXkS'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/discord-logo-blue.svg' alt='English badge'  height="32"/></a>
+
+
 
 
 ## Features
