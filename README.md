@@ -26,7 +26,7 @@ Description of features, resolve known issues and etc.
 - Low audio latency
 - Windows 10 features support (Live tile, themes, notification and etc)
 
-## AirPods Supported
+## Headphones Supported
 - AirPods Gen 1, 2, 3
 - AirPods Pro
 - AirPods Pro 2 (only battery)
@@ -41,6 +41,11 @@ Description of features, resolve known issues and etc.
 - Beats Flex (only battery)
 - Power Beats 3 (only battery)
 - AirPods Pro 2 (only battery)
+- Fake AirPods Pro Airoha 1562AE (full support)
+- Fake AirPods Pro 2 Airoha 1562AE (full support)
+- Fale AirPods 3 1562E (full support)
+- Other headphones (only battery beta)
+
 
 ## Usage
 1. Pair your AirPods to your PC
