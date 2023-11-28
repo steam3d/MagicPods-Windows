@@ -70,7 +70,7 @@ If you have powerbeats3, beatsx or beatsSolo3 please follow this guide [Help wit
 Ask a question at github page or write your problem to MagicPods@outlook.com
 
 ## Donation
-<a href='https://boosty.to/steam3d'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/boosty.svg' alt='English badge'  height="32"/></a>
+<a href='https://boosty.to/steam3d'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/boosty.svg' alt='English badge'  height="64"/></a>
 
 Ton
 ```
