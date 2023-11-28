@@ -70,37 +70,9 @@ If you have powerbeats3, beatsx or beatsSolo3 please follow this guide [Help wit
 Ask a question at github page or write your problem to MagicPods@outlook.com
 
 ## Donation
+<a href='https://boosty.to/steam3d'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/boosty.svg' alt='English badge'  height="32"/></a>
+
 Ton
 ```
 EQDU3Pagbzs0VTiF47QKnCGDZtWHsk0jOSPKYR6jSJtnkcpN
-```
-
-XRP (without tag)
-```
-rMh3Kxp17W7KoS9KsxN4beMBJk2k4zgvPk
-```
-
-BNB Smart Chain
-```
-0x405abb477D8F7E8525964D986BafC5f5af986BEa
-```
-
-BTC
-```
-bc1qupu7fhm20u0mzz50f5rvjmu3kc4axsc4ugx6d6
-```
-
-ETH
-```
-0x405abb477D8F7E8525964D986BafC5f5af986BEa
-```
-
-USDT (TRC20)
-```
-0x405abb477D8F7E8525964D986BafC5f5af986BEa
-```
-
-USDC (ERC20)
-```
-0x405abb477D8F7E8525964D986BafC5f5af986BEa
 ```
