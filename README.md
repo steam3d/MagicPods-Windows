@@ -5,6 +5,14 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 
 <a href='//www.microsoft.com/store/apps/9P6SKKFKSHKM?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge'  height="48"/></a>
 
+# Native AirPods support (Beta)
+
+Accurate battery, Noise control, Ear detection, Double-tap, Cycle between ANC, Digital crown and other settings.
+
+> [MagicAAP driver required](https://help.magicpods.app/fun-magicaap/)
+
+<img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/MagicAAP-Driver-Sample.webp'/>
+
 ## Help guid
 
 Description of features, resolve known issues and etc.
