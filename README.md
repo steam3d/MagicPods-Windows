@@ -35,20 +35,19 @@ Description of features, resolve known issues and etc.
 - Windows 10 features support (Live tile, themes, notification and etc)
 
 ## Headphones Supported
-- AirPods Gen 1, 2, 3
-- AirPods Pro
-- AirPods Pro 2 (only battery)
-- AirPods Max
-- PowerBeats Pro
-- Beats Fit Pro
-- Beats Studio Buds
+- AirPods Gen 1, 2, 3 (full support requred MagicAAP)
+- AirPods Pro (full support requred MagicAAP)
+- AirPods Pro 2 (full support requred MagicAAP)
+- AirPods Max (full support requred MagicAAP)
+- PowerBeats Pro (full support requred MagicAAP)
+- Beats Fit Pro (full support requred MagicAAP)
+- Beats Studio Buds (only battery)
 - Beats Solo 3 (only battery)
 - Beats Solo Pro (only battery)
 - Beats Studio 3 (only battery)
 - Beats X (only battery)
 - Beats Flex (only battery)
 - Power Beats 3 (only battery)
-- AirPods Pro 2 (only battery)
 - Fake AirPods Pro Airoha 1562AE (full support)
 - Fake AirPods Pro 2 Airoha 1562AE (full support)
 - Fale AirPods 3 1562E (full support)
