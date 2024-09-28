@@ -36,9 +36,11 @@ Description of features, resolve known issues and etc.
 
 ## Headphones Supported
 - AirPods Gen 1, 2, 3 (full support requred MagicAAP)
+- AirPods 4 (MagicAAP support soon)
 - AirPods Pro (full support requred MagicAAP)
 - AirPods Pro 2 (full support requred MagicAAP)
 - AirPods Max (full support requred MagicAAP)
+- AirPods Max 2024 (full support requred MagicAAP)
 - PowerBeats Pro (full support requred MagicAAP)
 - Beats Fit Pro (full support requred MagicAAP)
 - Beats Studio Buds (only battery)
