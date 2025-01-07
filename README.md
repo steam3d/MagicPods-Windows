@@ -3,7 +3,7 @@
 # MagicPods [![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/svg-badge.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
 The MagicPods introduce the IOS experience of AirPods to Windows.
 
-<a href='//www.microsoft.com/store/apps/9P6SKKFKSHKM?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge'  height="48"/></a>
+<a href='https://apps.microsoft.com/store/detail/9P6SKKFKSHKM'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge'  height="48"/></a>
 
 # Native AirPods support (Beta)
 
