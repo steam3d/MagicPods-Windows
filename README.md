@@ -1,6 +1,7 @@
-<a href="https://apps.microsoft.com/store/detail/9P6SKKFKSHKM" target="_blank"><img src="https://github.com/steam3d/MagicPods-Windows/blob/master/Media/logo.png" width="80"></a>
+![](./Media/banner.webp)
 
-# MagicPods [![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/svg-badge.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
+
+# <a href="https://apps.microsoft.com/store/detail/9P6SKKFKSHKM" target="_blank"><img src="https://github.com/steam3d/MagicPods-Windows/blob/master/Media/logo.png" width="32"></a> MagicPods [![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/svg-badge.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
 The MagicPods introduce the IOS experience of AirPods to Windows. The full list of available features and supported headphone models can be found on [help.magicpods.app](https://help.magicpods.app/).
 
 <a href='https://apps.microsoft.com/store/detail/9P6SKKFKSHKM'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge'  height="48"/></a>
