@@ -10,115 +10,56 @@ The MagicPods introduce the IOS experience of AirPods to Windows.
 
 The full list of available features and supported headphone models can be found on [help.magicpods.app](https://help.magicpods.app/).
 
-### ✔ Essentials
 
-**Battery Indicator**
 
-Displays the battery level of AirPods, Galaxy Buds, and most other Bluetooth headphones — in the app, system tray, Windows 11 widget, and Windows 10 live tile.
+### Essentials
 
-**Ear Detection**
+* **Battery Indicator**: Displays the battery level of AirPods, Galaxy Buds, and most other Bluetooth headphones — in the app, system tray, Windows 11 widget, and Windows 10 live tile.
+* **Ear Detection**: Automatically pauses playback when you remove an earbud and resumes when you put it back in.
+* **iPhone-Style Popup Animation**: Shows an animated popup when opening the case — similar to iOS. Compatible with all AirPods models and select Beats headphones.
+* **VoiceOver**: Reads notifications aloud on Windows 10 and 11 — works offline without an internet connection.
+* **Audio Streaming**: Turn your PC into a wireless speaker: stream audio from your iPhone, Nintendo Switch, or any other Bluetooth device.
+* **Hotkeys**: Use customizable hotkeys to quickly manage headphone connections, noise control modes, audio output, Bluetooth, and VoiceOver on Windows 10 and 11.
+* **Low Battery Notification**: Receive alerts when your AirPods, Beats, or Galaxy Buds are running low on battery.
 
-Automatically pauses playback when you remove an earbud and resumes when you put it back in.
 
-**iPhone-Style Popup Animation**
 
-Shows an animated popup when opening the case — similar to iOS. Compatible with all AirPods models and select Beats headphones.
+### Full AirPods Support with [MagicAAP Driver](https://magicpods.app/magicaap/)
 
-**VoiceOver**
+* **Noise Control**: Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the AirPods or Beats model).
+* **Conversation Awareness**: Automatically lowers media volume on Windows when a conversation is detected.
+* **Button Customization**: Customize actions for AirPods and supported Beats models: assign functions to touch controls and the Digital Crown on AirPods Max — just like on iPhone.
+* **Accessibility Features**: Includes iPhone-like accessibility settings such as adjustable press speed and duration, one-earbud noise cancellation, volume tuning, and more.
 
-Reads notifications aloud on Windows 10 and 11 — works offline without an internet connection.
 
-**Audio Streaming**
 
-Turn your PC into a wireless speaker: stream audio from your iPhone, Nintendo Switch, or any other Bluetooth device.
+### Galaxy Buds Support
 
-**Hotkeys**
+* **Noise Control**: Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the Galaxy Buds model).
+* **Ear Detection**: Automatically pauses playback when you remove an earbud and resumes when you put it back in.
 
-Use customizable hotkeys to quickly manage headphone connections, noise control modes, audio output, Bluetooth, and VoiceOver on Windows 10 and 11.
 
-**Low Battery Notification**
 
-Receive alerts when your AirPods, Beats, or Galaxy Buds are running low on battery.
+### Full Support for Fake Airoha AirPods
 
-### ✔ Full AirPods Support with [MagicAAP Driver](https://magicpods.app/magicaap/)
+* **Chip & Firmware Display**: Shows separate chip and firmware versions for the left and right earbuds.
+* **Noise Control**: Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the specific model).
+* **Ear Detection**: Automatically pauses playback when an earbud is removed and resumes when reinserted.
+* **Head Tracking**: Simulates spatial audio by tracking head movements.
+* **Left/Right Sensitivity Control**: Independently adjust touch sensitivity for each earbud stem.
+* **Press Speed**: Set the tap speed for double and triple-tap gestures.
+* **Long Press Duration**: Customize how long the stem must be held for a long-press action.
+* **Enhanced Multipoint Connection**: Toggle the ability to connect to two devices simultaneously.
+* **Wind Noise Reduction**: Reduce wind noise with adjustable sensitivity (Low, Medium, High).
+* **Equalizer**: Choose from EQ presets: Live Show, Cinema Stereo, Stage Rhythm, Classic.
+* **Game Mode**: Enable low-latency audio for smoother gameplay.
 
-**Noise Control**
 
-Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the AirPods or Beats model).
 
-**Conversation Awareness**
+### Support for Sony WF-1000XM3, WH-1000XM4
 
-Automatically lowers media volume on Windows when a conversation is detected.
+* **Noise Control**: Supports Off, Ambient, and Noise Cancellation modes.
 
-**Button Customization**
-
-Customize actions for AirPods and supported Beats models: assign functions to touch controls and the Digital Crown on AirPods Max — just like on iPhone.
-
-**Accessibility Features**
-
-Includes iPhone-like accessibility settings such as adjustable press speed and duration, one-earbud noise cancellation, volume tuning, and more.
-
-### ✔ Galaxy Buds Support
-
-**Noise Control**
-
-Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the Galaxy Buds model).
-
-**Ear Detection**
-
-Automatically pauses playback when you remove an earbud and resumes when you put it back in.
-
-### ✔ Full Support for Fake Airoha AirPods
-
-**Chip & Firmware Display**
-
-Shows separate chip and firmware versions for the left and right earbuds.
-
-**Noise Control**
-
-Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the specific model).
-
-**Ear Detection**
-
-Automatically pauses playback when an earbud is removed and resumes when reinserted.
-
-**Head Tracking**
-
-Simulates spatial audio by tracking head movements.
-
-**Left/Right Sensitivity Control**
-
-Independently adjust touch sensitivity for each earbud stem.
-
-**Press Speed**
-
-Set the tap speed for double and triple-tap gestures.
-
-**Long Press Duration**
-
-Customize how long the stem must be held for a long-press action.
-
-**Enhanced Multipoint Connection**
-
-Toggle the ability to connect to two devices simultaneously.
-
-**Wind Noise Reduction**
-
-Reduce wind noise with adjustable sensitivity (Low, Medium, High).
-
-**Equalizer**
-
-Choose from EQ presets: Live Show, Cinema Stereo, Stage Rhythm, Classic.
-
-**Game Mode**
-
-Enable low-latency audio for smoother gameplay.
-
-### ✔ Support for Sony WF-1000XM3, WH-1000XM4
-
-**Noise Control**
-
-Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the Galaxy Buds model).
 
 ## 🎧 Headphones supported
 | Apple            | Beats                  | Samsung           | Sony       | Fake Airoha AirPods         |
