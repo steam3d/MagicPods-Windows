@@ -2,11 +2,15 @@
 
 
 # <a href="https://apps.microsoft.com/store/detail/9P6SKKFKSHKM" target="_blank"><img src="https://github.com/steam3d/MagicPods-Windows/blob/master/Media/logo.png" width="32"></a> MagicPods [![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/svg-badge.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
-The MagicPods introduce the IOS experience of AirPods to Windows. The full list of available features and supported headphone models can be found on [help.magicpods.app](https://help.magicpods.app/).
+The MagicPods introduce the IOS experience of AirPods to Windows.
 
 <a href='https://apps.microsoft.com/store/detail/9P6SKKFKSHKM'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge'  height="48"/></a>
 
-## Core Features
+## 🎨 Features
+
+The full list of available features and supported headphone models can be found on [help.magicpods.app](https://help.magicpods.app/).
+
+### ✔ Essentials
 
 **Battery Indicator**
 
@@ -36,7 +40,7 @@ Use customizable hotkeys to quickly manage headphone connections, noise control 
 
 Receive alerts when your AirPods, Beats, or Galaxy Buds are running low on battery.
 
-## Full AirPods Support with [MagicAAP Driver](https://magicpods.app/magicaap/)
+### ✔ Full AirPods Support with [MagicAAP Driver](https://magicpods.app/magicaap/)
 
 **Noise Control**
 
@@ -54,7 +58,7 @@ Customize actions for AirPods and supported Beats models: assign functions to to
 
 Includes iPhone-like accessibility settings such as adjustable press speed and duration, one-earbud noise cancellation, volume tuning, and more.
 
-## Galaxy Buds Support
+### ✔ Galaxy Buds Support
 
 **Noise Control**
 
@@ -64,7 +68,7 @@ Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability
 
 Automatically pauses playback when you remove an earbud and resumes when you put it back in.
 
-## Full Support for Fake Airoha AirPods
+### ✔ Full Support for Fake Airoha AirPods
 
 **Chip & Firmware Display**
 
@@ -110,7 +114,13 @@ Choose from EQ presets: Live Show, Cinema Stereo, Stage Rhythm, Classic.
 
 Enable low-latency audio for smoother gameplay.
 
-## Headphones Supported
+### ✔ Support for Sony WF-1000XM3, WH-1000XM4
+
+**Noise Control**
+
+Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the Galaxy Buds model).
+
+## 🎧 Headphones supported
 | Apple            | Beats                  | Samsung           | Sony       | Fake Airoha AirPods         |
 | ---------------- | ---------------------- | ----------------- | ---------- | --------------------------- |
 | AirPods 1        | PowerBeats Pro         | Galaxy Buds       | WF-1000XM3 | AirPods Pro 2 Airoha 1571AM |
@@ -128,8 +138,7 @@ Enable low-latency audio for smoother gameplay.
 |                  | Beats Flex             |                   |            |                             |
 |                  | Beats Solo Buds        |                   |            |                             |
 
-
-## Usage
+## 🚀 Getting started
 1. Pair your AirPods to your PC
 2. Run the MagicPods
 3. Choose the settings you like (optional)
@@ -140,16 +149,16 @@ Enable low-latency audio for smoother gameplay.
 
 Now all functions are turn on and available for work. Enjoy.
 
-## Translation
+## 🌐 Become a Translator
 You can get MagicPods for free just help to translate the MagicPods. Follow this guide [Add your native language](https://github.com/steam3d/MagicPods-Windows/issues/23) to start. When you've finished translating, email MagicPods@outlook.com to get MagicPods activation code.
 
 ## Other headphones
 If you have powerbeats3, beatsx or beatsSolo3 please follow this guide [Help with supports new headphones](https://github.com/steam3d/MagicPods-Windows/issues/21) to provide extra information about them. It will help to understand if it is possible to add support these headphones to MagicPods.
 
-## Report bug
+## 🧪 Ideas and bugs
 Ask a question at github page or write your problem to MagicPods@outlook.com
 
-## Donation
+## 💰 Donate
 <a href='https://boosty.to/steam3d'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/boosty.svg' alt='English badge'  height="64"/></a>
 
 Ton
@@ -158,6 +167,6 @@ EQDU3Pagbzs0VTiF47QKnCGDZtWHsk0jOSPKYR6jSJtnkcpN
 ```
 
 
-## Join to Discord server
+## 💖 Join to Discord server
 
 <a href='https://discord.com/invite/UyY4PY768V'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/discord-logo-blue.svg' alt='English badge'  height="32"/></a>
