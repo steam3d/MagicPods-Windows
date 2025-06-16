@@ -141,8 +141,6 @@ Enable low-latency audio for smoother gameplay.
 Now all functions are turn on and available for work. Enjoy.
 
 ## Translation
-[![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/multi-auto.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
-
 You can get MagicPods for free just help to translate the MagicPods. Follow this guide [Add your native language](https://github.com/steam3d/MagicPods-Windows/issues/23) to start. When you've finished translating, email MagicPods@outlook.com to get MagicPods activation code.
 
 ## Other headphones
