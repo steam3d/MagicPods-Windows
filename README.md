@@ -16,8 +16,8 @@ The full list of available features and supported headphone models can be found 
 
 * **Battery Indicator**: Displays the battery level of AirPods, Galaxy Buds, and most other Bluetooth headphones — in the app, system tray, Windows 11 widget, and Windows 10 live tile.
 * **Ear Detection**: Automatically pauses playback when you remove an earbud and resumes when you put it back in.
-* **Seamless Audio Switching**: Automatically routes audio to your PC speakers when both earbuds are removed — works with AirPods, select Beats models, and Galaxy Buds.
-* **iPhone-Style Popup Animation**: Shows an animated popup when opening the case — similar to iOS. Compatible with all AirPods models and select Beats headphones.
+* **Seamless Audio Switching**: Automatically routes audio to your PC speakers when both earbuds are removed — works with AirPods, some Beats models, and Galaxy Buds.
+* **iPhone-Style Popup Animation**: Shows an animated popup when opening the case — similar to iOS. Compatible with all AirPods models and some Beats headphones.
 * **VoiceOver**: Reads notifications aloud on Windows 10 and 11 — works offline without an internet connection.
 * **Audio Streaming**: Turn your PC into a wireless speaker: stream audio from your iPhone, Nintendo Switch, or any other Bluetooth device.
 * **Hotkeys**: Use customizable hotkeys to quickly manage headphone connections, noise control modes, audio output, Bluetooth, and VoiceOver on Windows 10 and 11.
@@ -30,7 +30,7 @@ The full list of available features and supported headphone models can be found 
 * **Noise Control**: Supports Off, Transparency, Adaptive, and Noise Cancellation modes (availability depends on the specific model).
 * **Conversation Awareness**: Automatically lowers media volume on Windows when a conversation is detected.
 * **Button Customization**: Customize actions for AirPods and supported Beats models: assign functions to touch controls and the Digital Crown on AirPods Max — just like on iPhone.
-* **Accessibility Features**: Includes iPhone-like accessibility settings such as adjustable press speed and duration, one-earbud noise cancellation, volume tuning, and more.
+* **Accessibility Features**: Includes iPhone-like accessibility settings such as adjustable press speed and duration, one-earbud noise cancellation, tune volume, and more.
 
 ### Full Support for Fake Airoha AirPods
 
