@@ -104,4 +104,4 @@ EQDU3Pagbzs0VTiF47QKnCGDZtWHsk0jOSPKYR6jSJtnkcpN
 
 ## 💖 Join to Discord server
 
-<a href='https://discord.com/invite/UyY4PY768V'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/discord-logo-blue.svg' alt='English badge'  height="32"/></a>
+<a href='https://discord.com/invite/UyY4PY768V'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/discord-logo-blue.svg' alt='English badge'  height="27"/></a>
