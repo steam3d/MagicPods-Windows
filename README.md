@@ -4,7 +4,7 @@
 # <a href="https://apps.microsoft.com/store/detail/9P6SKKFKSHKM" target="_blank"><img src="https://github.com/steam3d/MagicPods-Windows/blob/master/Media/logo.png" width="32"></a> MagicPods [![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/svg-badge.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
 The MagicPods introduce the IOS experience of AirPods to Windows.
 
-<a href='https://apps.microsoft.com/store/detail/9P6SKKFKSHKM'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge'  height="48"/></a>
+<a href='https://apps.microsoft.com/store/detail/9P6SKKFKSHKM'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="133" height="48"/></a>
 
 ## 🎨 Features
 
@@ -104,4 +104,4 @@ EQDU3Pagbzs0VTiF47QKnCGDZtWHsk0jOSPKYR6jSJtnkcpN
 
 ## 💖 Join to Discord server
 
-<a href='https://discord.com/invite/UyY4PY768V'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/discord-logo-blue.svg' alt='English badge'  height="27"/></a>
+<a href='https://discord.com/invite/UyY4PY768V'><img src='https://raw.githubusercontent.com/steam3d/MagicPods-Windows/master/Media/discord-logo-blue.svg' alt='English badge' width="145"  height="27"/></a>
