@@ -63,14 +63,14 @@ The full list of available features and supported headphone models can be found 
 | AirPods 3        | PowerBeats 3           | Galaxy Buds Live  |            | AirPods Pro Airoha 1562AE   |
 | AirPods 4        | PowerBeats 4           | Galaxy Buds Pro   |            | AirPods Pro Airoha 1562AE   |
 | AirPods 4 (ANC)  | Beats Fit Pro          | Galaxy Buds 2     |            |                             |
-| AirPods Pro      | Beats Studio Buds      | Galaxy Buds 2 Pro |            |                             |
-| AirPods Pro 2    | Beats Studio Buds Plus | Galaxy Buds Fe    |            |                             |
-| AirPods Max      | Beats Studio Pro       | Galaxy Buds 3     |            |                             |
-| AirPods Max 2024 | Beats Solo 3           | Galaxy Buds 3 Pro |            |                             |
-|                  | Beats Solo Pro         |                   |            |                             |
-|                  | Beats Studio 3         |                   |            |                             |
-|                  | Beats X                |                   |            |                             |
-|                  | Beats Flex             |                   |            |                             |
+| AirPods 5        | Beats Studio Buds      | Galaxy Buds 2 Pro |            |                             |
+| AirPods 5 (WCC)  | Beats Studio Buds Plus | Galaxy Buds Fe    |            |                             |
+| AirPods Pro      | Beats Studio Pro       | Galaxy Buds 3     |            |                             |
+| AirPods Pro 2    | Beats Solo 3           | Galaxy Buds 3 Pro |            |                             |
+| AirPods Max      | Beats Solo Pro         | Galaxy Buds 3 FE  |            |                             |
+| AirPods Max 2024 | Beats Studio 3         | Galaxy Buds Core  |            |                             |
+| AirPods Max 2    | Beats X                | Galaxy Buds 4     |            |                             |
+|                  | Beats Flex             | Galaxy Buds 4 Pro |            |                             |
 |                  | Beats Solo Buds        |                   |            |                             |
 
 ## 🚀 Getting started
